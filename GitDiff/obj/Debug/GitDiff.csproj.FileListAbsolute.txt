@@ -1,0 +1,9 @@
+C:\Users\jamie\OneDrive\GitDiff\obj\Debug\GitDiff.csprojAssemblyReference.cache
+C:\Users\jamie\OneDrive\GitDiff\obj\Debug\Minimalist_UI.Form1.resources
+C:\Users\jamie\OneDrive\GitDiff\obj\Debug\GitDiff.Properties.Resources.resources
+C:\Users\jamie\OneDrive\GitDiff\obj\Debug\GitDiff.csproj.GenerateResource.cache
+C:\Users\jamie\OneDrive\GitDiff\bin\Debug\GitDiff.exe.config
+C:\Users\jamie\OneDrive\GitDiff\bin\Debug\GitDiff.exe
+C:\Users\jamie\OneDrive\GitDiff\bin\Debug\GitDiff.pdb
+C:\Users\jamie\OneDrive\GitDiff\obj\Debug\GitDiff.exe
+C:\Users\jamie\OneDrive\GitDiff\obj\Debug\GitDiff.pdb
